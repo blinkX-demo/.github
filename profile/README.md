@@ -1,4 +1,4 @@
-![BlinkX API — Developer Platform](https://github.com/blinkX-demo/.github/blob/main/profile/banner.png)
+![BlinkX API — Developer Platform](https://github.com/blinkX-demo/.github/blob/main/profile/banner.jpeg)
 
 <div align="center">
 
