@@ -89,10 +89,8 @@ order = client.place_order(
 
 ## 📚 Resources
 
-- 📖 &nbsp;[API Documentation](https://api.blinkx.in/docs)
+- 📖 &nbsp;[API Documentation](https://developer.blinkx.in/docs/)
 - 🔑 &nbsp;[Get Your API Key](https://developeruat.blinkx.in/signup)
-- 💬 &nbsp;[Developer Support](mailto:api-support@blinkx.in)
-- 🏢 &nbsp;[LinkedIn](https://www.linkedin.com/company/getblinkx)
 - 📧 &nbsp;[General Enquiries](mailto:letstalk@blinkx.in)
 
 ---
@@ -116,7 +114,6 @@ Compliance          SEBI-compliant · Static IP mandatory
 
 BlinkX API complies with all SEBI and exchange regulations for algorithmic trading in India.  
 A **static IP address** is mandatory for all API integrations per NSE/BSE guidelines (effective August 2025).  
-All order activity is logged and auditable for a minimum of 5 years.
 
 ---
 
