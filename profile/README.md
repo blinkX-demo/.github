@@ -102,9 +102,6 @@ Max Orders/Day      14,000
 Instruments         1,000+ live (NSE + BSE)
 API Charges         ₹0 — free to use
 Auth                OAuth 2.0 (daily session)
-Data Formats        JSON / Protobuf (WebSocket)
-Exchanges           NSE · BSE · NSE F&O · NSE Currency · MCX
-Compliance          SEBI-compliant · Static IP mandatory
 ```
 
 ---
