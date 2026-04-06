@@ -83,7 +83,6 @@ order = client.place_order(
 | [blinkx-java](https://github.com/blinkx/blinkx-java) | ☕ Java | Official Java SDK |
 | [blinkx-go](https://github.com/blinkx/blinkx-go) | 🐹 Go | Official Go client |
 | [blinkx-nodejs](https://github.com/blinkx/blinkx-nodejs) | 🟩 Node.js | Official Node.js SDK |
-| [blinkx-docs](https://github.com/blinkx/blinkx-docs) | 📄 Markdown | API documentation source |
 
 ---
 
