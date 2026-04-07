@@ -1,11 +1,11 @@
-![BlinkX API — Developer Platform](https://github.com/blinkX-demo/.github/blob/main/profile/banner.jpeg)
+![BlinkX API](https://github.com/blinkX-demo/.github/blob/main/profile/banner.jpeg)
 
 <div align="center">
 
 # BlinkX API &nbsp;—&nbsp; Developer Platform
 
 **Official developer platform for BlinkX.**  
-Build algorithmic trading apps with real-time order execution, live market feeds, and portfolio APIs.
+Official developer platform for BlinkX. Real-time order execution, live market feeds & portfolio APIs for API based trading products.
 
 BlinkX API gives developers direct programmatic access to India's stock markets — NSE and BSE.  
 Whether you're building a quantitative trading bot, an analytics dashboard, or a full-fledged algo platform,  
