@@ -3,13 +3,10 @@
 <div align="center">
 
 # BlinkX API
+  
+Build automated trading workflows with real-time order execution, live market feeds, and portfolio APIs.
 
-**Official developer platform for BlinkX.**  
-Official developer platform for BlinkX. Real-time order execution, live market feeds & portfolio APIs for API based trading products.
-
-BlinkX API gives developers direct programmatic access to India's stock markets — NSE and BSE.  
-Whether you're building a quantitative trading bot, an analytics dashboard, or a full-fledged algo platform,  
-our unified API handles execution, data, and risk — so you can focus on your strategy.
+BlinkX API gives developers direct programmatic access to India's stock markets for executing your strategies across NSE and BSE.
 
 <br/>
 
@@ -26,11 +23,11 @@ our unified API handles execution, data, and risk — so you can focus on your s
 
 | Capability | Description |
 |---|---|
-| **Order Management** | Place, modify and cancel MARKET, LIMIT and SL orders — up to **9 OPS** |
+| **Order Management** | Execute the full order lifecycle - MARKET, LIMIT, and SL - up to **9 OPS** |
 | **Live Market Feed** | WebSocket streaming for **1,000+ instruments** across NSE & BSE |
 | **Historical Data** | Tick-by-tick and OHLCV candle data for backtesting and analysis |
 | **Portfolio Management** | Real-time holdings, positions, P&L and margin data |
-| **Authentication** | OAuth 2.0 — secure, stateless, daily-session based |
+| **Authentication** | OAuth 2.0 - secure, stateless, daily-session based |
 
 ---
 
