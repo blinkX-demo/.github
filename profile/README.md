@@ -94,10 +94,10 @@ order = client.place_order(
 ## 📋 Platform Specs
 
 ```
-Rate Limit          9 orders/second (sliding window)
+Rate Limit          9 orders/second 
 Max Orders/Day      14,000
 Instruments         1,000+ live (NSE + BSE)
-API Charges         ₹0 — free to use
+API Charges         ₹0 - free to use
 Auth                OAuth 2.0 (daily session)
 ```
 
