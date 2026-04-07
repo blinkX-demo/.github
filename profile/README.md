@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# BlinkX API &nbsp;—&nbsp; Developer Platform
+# BlinkX API
 
 **Official developer platform for BlinkX.**  
 Official developer platform for BlinkX. Real-time order execution, live market feeds & portfolio APIs for API based trading products.
