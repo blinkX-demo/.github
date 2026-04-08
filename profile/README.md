@@ -33,7 +33,7 @@ BlinkX API gives developers direct programmatic access to India's stock markets 
 
 ## 🚀 Quickstart
 
-**1. Sign up and get your API key**
+**1. Sign up Create your APP and get your API key**
 
 ```
 https://developeruat.blinkx.in/signup
