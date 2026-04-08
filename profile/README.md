@@ -110,6 +110,5 @@ A **static IP address** is mandatory for all API integrations per NSE/BSE guidel
 <div align="center">
 
 **© 2026 BlinkX · Powered by JM Financial**  
-[api.blinkx.in](https://api.blinkx.in) &nbsp;·&nbsp; [Terms of Use](https://blinkx.in/terms) &nbsp;·&nbsp; [Privacy Policy](https://blinkx.in/privacy)
 
 </div>
