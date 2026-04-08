@@ -42,15 +42,20 @@ https://developeruat.blinkx.in/signup
 **2. Install the SDK**
 
 ```bash
-pip install blinkx-python          # Python
-npm install blinkx-nodejs          # Node.js
-go get github.com/blinkx/blinkx-go # Go
+# To install Python SDK
+pip install blinkx-python          
+# To install Node.js SDK
+npm install blinkx-nodejs          
+# To install Go SDK
+go get github.com/blinkx/blinkx-go 
+# To install Java SDK
+
 ```
 
 **3. Place your first order**
 
 ```python
-# Authenticate with BlinkX TradeAPI
+# Authenticate with BlinkX API
 from blinkx import TradeAPI
 
 client = TradeAPI(
@@ -87,7 +92,7 @@ order = client.place_order(
 
 - 📖 &nbsp;[API Documentation](https://developer.blinkx.in/docs/)
 - 🔑 &nbsp;[Get Your API Key](https://developeruat.blinkx.in/signup)
-- 📧 &nbsp;[General Enquiries](mailto:letstalk@blinkx.in)
+- 📧 &nbsp;[General Enquiries](https://blinkx.in/contact-us)
 
 ---
 
