@@ -102,8 +102,6 @@ Auth                OAuth 2.0 (daily session)
 
 ---
 
-## 🛠 SEBI & Regulatory Notice
-
 BlinkX API complies with all SEBI and exchange regulations for algorithmic trading in India.  
 A **static IP address** is mandatory for all API integrations per NSE/BSE guidelines (effective August 2025).  
 
